@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe.config
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.pdb
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.exe
+C:\Users\HP\Desktop\Érettségi\Info\2020 május\2. Szudoku\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.pdb
